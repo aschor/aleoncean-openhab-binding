@@ -7,7 +7,7 @@ You have to configure the serial port that should be used to communicate with th
 
 # base id
 
-If you do not know, what base id is used for, please read [What is difference between Base ID and Chip ID?](http://www.enocean.com/en/knowledge-base-doku/enoceansystemspecification:issue:what_is_a_base_id/?purge=1) or do not use it.
+If you do not know, what base id is used for, please read [What is difference between Base ID and Chip ID?](https://www.enocean.com/en/knowledge-base-doku/enoceansystemspecification%3Aissue%3Awhat_is_a_base_id/) or do not use it.
 
 Additional you COULD configure the base ID that should be set.
 
